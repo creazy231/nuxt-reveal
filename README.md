@@ -7,13 +7,13 @@ Reveal is a creative business Bootstrap template. It’s best suitable for busin
   
 ## Preview  
   
-[![Grayscale Preview](https://bootstrapmade.com/wp-content/themefiles/Reveal/800.png)](https://blackrockdigital.github.io/startbootstrap-grayscale/)  
+[![Reveal Preview](https://bootstrapmade.com/wp-content/themefiles/Reveal/800.png)](https://bootstrapmade.com/demo/Reveal/)  
   
 **[View Live Preview](https://bootstrapmade.com/demo/Reveal/)**
 
 ## Download and Installation
 To begin using this template, choose one of the following options to get started:  
-* Clone the repo: `git clone <git_link>`
+* Clone the repo: `git clone https://github.com/creazy231/nuxt-reveal.git`
 * Download this repo as a `.zip` file and extract it into an empty folder.
 
 ## Build Setup
