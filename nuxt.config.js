@@ -6,7 +6,7 @@ const webpack = require('webpack');
 
 module.exports = {
   router: {
-    base: '/nuxt-reveal/'
+    base: '/nuxt-reveal/docs/'
   },
   generate: {
     dir: 'docs'
