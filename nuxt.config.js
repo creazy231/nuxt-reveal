@@ -5,6 +5,13 @@ const path = require('path');
 const webpack = require('webpack');
 
 module.exports = {
+  router: {
+    base: '/nuxt-reveal/'
+  },
+  generate: {
+    dir: 'docs'
+  },
+
   mode: 'universal',
 
   /*
